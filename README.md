@@ -1,0 +1,2 @@
+# hello
+初GitHub
